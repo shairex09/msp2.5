@@ -1,17 +1,7 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.22): 1725764103400 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1725764106484 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1725764109584 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mGot Error
+MSG: Failed to setup tunnel client
+Error: RequestError(TooManyRequests)
+[2J8[0mtunnel running[2J8[0mplayit (v0.15.22): 1725764695528 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -19,12 +9,817 @@ half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.22): 1725764124689 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.22): 1725764710631 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1725764127757 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.22): 1725764713696 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725764716760 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725764731861 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725764734925 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725764737980 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725764753078 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725764756138 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725764771232 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725764774290 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725764777349 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725764792440 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725764795505 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725764798565 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725764813662 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725764816726 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725764831899 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725764834964 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725764838022 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725764853123 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725764856180 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725764871275 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725764874331 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725764877400 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725764892489 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725764895561 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725764898618 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725764913739 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725764916806 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725764919866 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725764934964 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725764938050 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725764953132 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725764956187 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725764971283 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725764974347 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725764977408 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725764980470 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725764995554 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725764998615 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725765013727 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765016785 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725765031882 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765034944 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765038005 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725765053113 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765056178 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725765071282 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765074351 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765077411 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765080470 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725765095572 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765098654 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765101718 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725765116811 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765119871 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765122937 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725765138036 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765141098 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765144163 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765147229 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725765162322 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765165378 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765168442 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765171497 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725765186599 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765189655 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765192725 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725765207819 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765210875 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765213934 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765216996 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725765232092 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765235162 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725765250252 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765253314 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765256373 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725765271459 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765274525 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765277588 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725765292678 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765295733 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765298792 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725765313891 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765316954 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765320019 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725765335120 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765338179 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765341243 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765344308 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765347372 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725765362472 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765365547 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725765380643 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765383709 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765386791 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725765401893 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765404952 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765408012 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725765423106 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765426164 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765429241 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725765444337 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765447403 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765450462 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725765465563 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765468629 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765471689 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765474753 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725765489854 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765492923 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765495980 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725765511064 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765514122 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765517176 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725765532260 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765535316 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725765550398 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765553452 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765556508 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765559563 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725765574658 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765577721 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725765592806 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765595863 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765598916 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725765613996 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765617069 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765620125 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725765635213 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765638293 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765641364 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1725765656483 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765659547 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765662616 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+half-morocco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1725765665677 tunnel running, 1 tunnels registered
 
 
 TUNNELS
